@@ -82,7 +82,7 @@ This project demonstrates how Linear Regression and PCA can be used together to 
 - Arzoo Akhtar
 - Siddhi Mahajan
 - Aryan Kumar
-
+- Swarangi Jagtap
 ## References
 
 - Student Performance Dataset – Kaggle
