@@ -80,7 +80,7 @@ This project demonstrates how Linear Regression and PCA can be used together to 
 ## Contributors
 
 - Arzoo Akhtar
-- Add your teammate's name here
+- Siddhi Mahajan
 
 ## References
 
