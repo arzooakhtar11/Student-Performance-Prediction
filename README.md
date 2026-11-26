@@ -4,9 +4,9 @@ Mini Project using Linear Regression and Principal Component Analysis (PCA)
 
 ## Project Overview
 
-This project uses Python and Machine Learning techniques to predict students' final academic grades based on selected academic and personal study-related factors.
+This project uses Linear Regression to predict students' final academic grades (G3) based on selected factors such as previous grades (G1 and G2), study time, failures, and absences. Linear Regression is used to predict the final grades based on these input features.
 
-Linear Regression is used to predict the final grade, while Principal Component Analysis (PCA) is applied to reduce the dimensionality of the input data.
+Principal Component Analysis (PCA) is applied to reduce the number of input features while retaining important information. The reduced data is then used to train the Linear Regression model and make predictions.
 
 ## Objectives
 
